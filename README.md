@@ -1,23 +1,32 @@
+<div align="center">
+  
 # Hi, I'm Vaithees R 👋
+ 
+### AI & ML Graduate · Python Developer · Machine Learning Enthusiast
+ 
+*Building systems that move from notebooks to production — end to end.*
+ 
+<br>
 
-AI & ML Graduate | Python Developer | Machine Learning Enthusiast
+**Currently Exploring**
+ 
+`🤖 Machine Learning` &nbsp;·&nbsp; `⚙️ MLOps Fundamentals` &nbsp;·&nbsp; `🧠 LLM Applications` &nbsp;·&nbsp; `🔍 RAG Systems` &nbsp;·&nbsp; `🚀 FastAPI & Backend`
+ 
+<br>
 
-Currently exploring:
+## 🌐 Socials
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaithees-r-93842232b)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaithees-R)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaithees.r12@gmail.com)
+ 
+</div>
 
-- Machine Learning
-- MLOps Fundamentals
-- LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- FastAPI & Backend Development
-
-<br> 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaithees-r-93842232b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaithees.r12@gmail.com) 
-
-## `tech_stack`
+---
 
 <div align="center">
+  
+## `tech_stack`
 
 #### 🐍 Languages & Environment
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -54,8 +63,13 @@ Currently exploring:
 
 </div>
 
+---
+
+<div align="center">
+  
 # 📊 GitHub Stats
 
+</div>
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Vaithees-R&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
