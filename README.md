@@ -1,5 +1,8 @@
+#Hi There I'm Vaithees R
 # 💫 About Me:
-Just am a BSc. AI&Ml Graduate <br>I looking for collaborative ML & AI projects<br>learning about ML system to deploy in real world<br> 
+I'm interested in the full lifecycle of intelligent systems — not just training models, but understanding how they scale, fail, recover, and improve in the real world. I build at the intersection of Machine Learning, Software Engineering, and MLOps, with a growing focus on RAG systems and LLM-powered applications.
+
+<br> 
 
 
 ## 🌐 Socials:
