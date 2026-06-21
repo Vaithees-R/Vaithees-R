@@ -1,9 +1,8 @@
-#Hi There I'm Vaithees R
+# Hi There👋I'm Vaithees R
 # 💫 About Me:
 I'm interested in the full lifecycle of intelligent systems — not just training models, but understanding how they scale, fail, recover, and improve in the real world. I build at the intersection of Machine Learning, Software Engineering, and MLOps, with a growing focus on RAG systems and LLM-powered applications.
 
 <br> 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaithees-r-93842232b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaithees.r12@gmail.com) 
