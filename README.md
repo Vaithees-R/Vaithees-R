@@ -67,16 +67,25 @@
 
 <div align="center">
   
-# 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Vaithees-R&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaithees-R&theme=dark&hide_border=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Vaithees-R&theme=dark&hide_border=false" />
 
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Vaithees-R&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Vaithees-R&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vaithees-R&theme=dark&hide_border=false&layout=compact" />
-</p>
 <!--### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
