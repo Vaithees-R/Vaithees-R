@@ -1,148 +1,21 @@
-<div align="center">
+# 💫 About Me:
+Just am a BSc. AI&Ml Graduate <br>I looking for collaborative ML & AI projects<br>learning about ML system to deploy in real world<br> 
 
-```
-██╗   ██╗ █████╗ ██╗████████╗██╗  ██╗███████╗███████╗███████╗
-██║   ██║██╔══██╗██║╚══██╔══╝██║  ██║██╔════╝██╔════╝██╔════╝
-██║   ██║███████║██║   ██║   ███████║█████╗  █████╗  ███████╗
-╚██╗ ██╔╝██╔══██║██║   ██║   ██╔══██║██╔══╝  ██╔══╝  ╚════██║
- ╚████╔╝ ██║  ██║██║   ██║   ██║  ██║███████╗███████╗███████║
-  ╚═══╝  ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
-```
 
-### `AI & Machine Learning Engineer` · `MLOps` · `Generative AI`
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaithees-r-93842232b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaithees.r12@gmail.com) 
 
-*Building systems that move from notebooks to production — end to end.*
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Vaithees-R&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Vaithees-R&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vaithees-R&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaithees-r-93842232b)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaithees-R)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaithees.r12@gmail.com)
-
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Vaithees-R&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## `whoami`
-
-```python
-vaithees = {
-    "role"    : "AI & ML Graduate · Final Year BSc AIML",
-    "location": "Tenkasi, Tamil Nadu, India",
-    "focus"   : ["Machine Learning", "MLOps", "Generative AI", "LLM Applications"],
-    "vision"  : "Data → Training → Evaluation → Deployment → Monitoring → Iteration",
-    "mantra"  : "Build. Break. Debug. Improve. Repeat.",
-}
-```
-
-I'm interested in the full lifecycle of intelligent systems — not just training models, but understanding how they scale, fail, recover, and improve in the real world. I build at the intersection of **Machine Learning**, **Software Engineering**, and **MLOps**, with a growing focus on **RAG systems** and **LLM-powered applications**.
-
----
-
-## `tech_stack`
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Data & Machine Learning**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-
-**AI & LLMs**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6C3483?style=flat-square&logo=openai&logoColor=white)
-
-**Dev & Infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-</div>
-
----
-
-## `featured_projects`
-
-### 🤖 HR-Bot Interviewer
-> *RAG-based AI interviewer with dynamic question generation and evaluation*
-
-An AI-powered virtual HR interviewer built on a **Retrieval-Augmented Generation** pipeline. Conducts structured interviews, evaluates candidate responses, and generates adaptive follow-up questions in real time.
-
-**Stack:** `FastAPI` · `LangChain` · `ChromaDB` · `Hugging Face` · `Python`
-
----
-
-### 📄 Contract Intelligence & Risk Scoring
-> *Automated legal clause extraction and risk analysis on commercial contracts*
-
-An NLP pipeline that processes commercial contracts from the **CUAD dataset** (510 contracts, 41 clause categories) to extract legal clauses, engineer features, and score risk — moving from raw PDFs to structured, training-ready outputs.
-
-**Stack:** `spaCy` · `Hugging Face` · `LangChain` · `Pandas` · `Python`
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Vaithees-R/contract-intelligence-risk-scoring)
-
----
-
-## `currently_working_on`
-
-```
-[▓▓▓▓▓▓▓░░░]  Data Analysis & ML Pipelines
-[▓▓▓▓▓░░░░░]  FastAPI Microservices
-[▓▓▓▓░░░░░░]  MLOps Fundamentals
-[▓▓▓▓▓▓░░░░]  LLM Applications & RAG Systems
-[▓▓▓░░░░░░░]  Model Deployment & Monitoring
-```
-
----
-
-## `achievements`
-
-- 🏆 **Paper Presentation** — EXCELSIOR 2026 National Conference
-- 🎓 **Anthropic MCP Certification** — Model Context Protocol
-- 🚀 **Generative AI Bootcamp** — YHills
-- 🛰️ **In-Plant Trainee** — ISRO Propulsion Complex *(Jun–Jul 2025)*
-- 💼 **Junior ML Engineer Intern** — Z3Connect *(Sep–Dec 2025)*
-
----
-
-## `philosophy`
-
-> *"Machine Learning becomes valuable when it solves real problems."*
-
-I believe in understanding the **complete lifecycle** of intelligent systems:
-
-```
-Raw Data  →  Feature Engineering  →  Training  →  Evaluation
-    ↑                                                   |
-Monitoring  ←  Production  ←  Deployment  ←  Validation
-```
-
-Consistent progress compounds over time. I document as I build — because clarity of thought and clarity of code go together.
-
----
-
-<div align="center">
-
-*Open to opportunities in ML Engineering, Python Development & MLOps.*
-
-`vaithees.r12@gmail.com`
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
